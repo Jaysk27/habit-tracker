@@ -1,0 +1,17 @@
+.env
+.env.example
+.git
+.gitattributes
+.gitignore
+.DS_Store
+docker-compose.yml
+node_modules
+npm-debug.log
+public/build
+public/share-images
+storage/framework/cache
+storage/framework/sessions
+storage/framework/testing
+storage/framework/views
+storage/logs
+vendor
